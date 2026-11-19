@@ -1,1 +1,2 @@
 # ci-platform-lab
+[![CI](https://github.com/MichaelRodriguez21/ci-platform-lab/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/MichaelRodriguez21/ci-platform-lab/actions/workflows/ci.yml)
